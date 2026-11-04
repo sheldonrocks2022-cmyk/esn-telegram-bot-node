@@ -1,0 +1,18 @@
+{
+  "name": "esn-telegram-bot-node",
+  "version": "1.0.0",
+  "description": "Telegram bot starter with inline keyboard (Telegraf) by ESN Hosting",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "homepage": "https://esnoffical.com",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "dotenv": "^16.4.5"
+  }
+}
