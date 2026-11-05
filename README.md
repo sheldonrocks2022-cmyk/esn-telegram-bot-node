@@ -1,5 +1,7 @@
 # ESN Telegram Bot Starter (Node.js)
 
+[![Deploy to ESN](https://panel.esnoffical.com/deploy/badge.svg)](https://panel.esnoffical.com/deploy?repo=https://github.com/sheldonrocks2022-cmyk/esn-telegram-bot-node)
+
 A clean Telegram bot starter in Node.js (Telegraf). Made by [ESN Hosting](https://esnoffical.com/?utm_source=github&utm_medium=readme&utm_campaign=bot-templates).
 
 ## What it does
